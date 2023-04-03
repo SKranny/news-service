@@ -38,7 +38,7 @@ public class NewsController {
     }
 
     @GetMapping("/search")
-    public Page<NewsDTO> search(SearchRequest request){
+    public List<NewsDTO> search(SearchRequest request){
         return newsService.searchNews(request);
     }
 }
