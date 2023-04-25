@@ -1,6 +1,6 @@
 # news-service
 Test Job for a Java Developer Position at TrendSoft
-
+## Description
     This is a test task for Trend Soft. The following tools are used in this assignment:
       - java 11+,
       - spring framework,
